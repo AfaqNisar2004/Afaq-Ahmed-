@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   
-  // ================= MOBILE MENU TOGGLE =================
+
   const hamburger = document.querySelector(".hamburger");
   const navLinks = document.querySelector(".nav-links");
 
@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // ================= PROGRAM TABS LOGIC =================
+
   const tabBtns = document.querySelectorAll(".tab-btn");
   const programCards = document.querySelectorAll(".program-card");
 
